@@ -46,8 +46,6 @@ public class MergeLeadAssignment1 extends BaseclassAssignment1 {
 		} else {
 			System.out.println("Text not matched");
 		}
-		driver.close();
-		
 
 	}
 
